@@ -1,6 +1,6 @@
-# Amethyst Kiss Theme for [Visual Studio Code](http://code.visualstudio.com) [Or] [VSCodium](https://vscodium.com/)
+# Amethyst Kiss Theme for [Visual Studio Code](http://code.visualstudio.com) or [VSCodium](https://vscodium.com/)
 
-<img alt="icon" src="https://raw.githubusercontent.com/Behkar/amethyst_kiss_theme/master/images/amethyst-kiss.png" width="150px" height="150">
+<img alt="icon" src="https://raw.githubusercontent.com/Behkar/amethyst_kiss_theme/master/images/amethyst-kiss.png" width="300px" height="300">
 
 
 See the [CHANGELOG](CHANGELOG.md) for the latest changes.
@@ -8,7 +8,7 @@ See the [CHANGELOG](CHANGELOG.md) for the latest changes.
 **Overview**
 
 
-<img alt="overview" src="https://raw.githubusercontent.com/Behkar/amethyst_kiss_theme/master/images/amethyst-kiss-gif.gif" width="550px" height="300"/>
+<img alt="overview" src="https://raw.githubusercontent.com/Behkar/amethyst_kiss_theme/master/images/amethyst-kiss-gif.gif" width="1000px" height="500"/>
 
 ## Installation via VScode Extensions
 
