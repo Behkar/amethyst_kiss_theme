@@ -1,0 +1,21 @@
+{
+  "name": "amethyst-kiss",
+  "displayName": "Amethyst Kiss",
+  "description": "A Delicate and Sophisticated VS Code Theme Immerse yourself in a world of soft elegance with the Amethyst Kiss theme. This carefully crafted color palette blends a base of muted pink with subtle hints of amethyst, reminiscent of a peacock feather's mesmerizing iridescence. Background: A calming shade of soft pink provides a gentle foundation for your code, reducing eye strain and promoting focus during extended coding sessions. Syntax Highlighting: Essential code elements like keywords, functions, and variables are highlighted in a way that is clear and easy to differentiate, yet maintains a harmonious aesthetic with the base color. This might involve using a slightly darker shade of pink or a contrasting yet muted color that complements the overall theme. Comments: Comments are displayed in a distinct color that is unobtrusive but still allows them to be easily identified. This could be a light gray or a cooler shade of pink to maintain the theme's coherence. Accents: Subtle hints of amethyst are used sparingly for elements like brackets, parentheses, and other non-essential code components. This adds a touch of sophistication and intrigue without overwhelming the overall visual experience. The Amethyst Kiss theme is ideal for coders who appreciate a balance between functionality and aesthetics. The soft pink base promotes focus, while the amethyst accents add a touch of personality without sacrificing readability. Additional Notes: You can customize the specific shades of pink and amethyst to match your preferences while maintaining the core concept of the theme. Consider using a complementary color scheme picker tool to ensure the chosen colors provide good contrast and readability.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.87.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "A VSCode theme combination of pink and peacock.",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Amethyst-Kiss.json"
+      }
+    ]
+  }
+}
