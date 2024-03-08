@@ -8,7 +8,7 @@ See the [CHANGELOG](CHANGELOG.md) for the latest changes.
 **Overview**
 
 
-<img alt="overview" src="https://raw.githubusercontent.com/Behkar/amethyst_kiss_theme/master/images/amethyst-kiss-gif.gif" width="1000px" height="500"/>
+<img alt="overview" src="https://raw.githubusercontent.com/Behkar/amethyst_kiss_theme/master/images/amethyst-kiss-gif.gif" />
 
 ## Installation via VScode Extensions
 
