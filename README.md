@@ -1,6 +1,6 @@
 # Amethyst Kiss Theme for [Visual Studio Code](http://code.visualstudio.com) or [VSCodium](https://vscodium.com/)
 
-<img alt="icon" src="https://raw.githubusercontent.com/Behkar/amethyst_kiss_theme/master/images/amethyst-kiss.png" width="300px" height="400">
+<img alt="icon" src="https://raw.githubusercontent.com/Behkar/amethyst_kiss_theme/master/images/amethyst-kiss.png" width="400px" height="300">
 
 
 See the [CHANGELOG](CHANGELOG.md) for the latest changes.
