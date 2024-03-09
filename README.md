@@ -1,6 +1,8 @@
 # Amethyst Kiss Themes Collection for [Visual Studio Code](http://code.visualstudio.com) or [VSCodium](https://vscodium.com/)
 
-<img alt="icon" src="https://raw.githubusercontent.com/Behkar/amethyst_kiss_theme/master/images/amethyst-kiss.png" width="400px" height="300">
+<div align="center">
+  <img alt="icon" src="https://raw.githubusercontent.com/Behkar/amethyst_kiss_theme/master/images/amethyst-kiss.png" width="400px" height="300">
+</div>
 
 
 See the [CHANGELOG](CHANGELOG.md) for the latest changes.
@@ -9,11 +11,11 @@ See the [CHANGELOG](CHANGELOG.md) for the latest changes.
 
 The Amethyst Kiss themes collection is designed with two color variations: pink and purple, and two modes: light and dark, to suit your different tastes.
 
-**Dark Modes**
+**Amethyst/Kiss Styles in Dark Mode**
 
 <img alt="overview" src="https://raw.githubusercontent.com/Behkar/amethyst_kiss_theme/master/images/dark.gif" />
 
-**Light Modes**
+**Amethyst/Kiss Styles in Light Modes**
 
 <img alt="overview" src="https://raw.githubusercontent.com/Behkar/amethyst_kiss_theme/master/images/light.gif" />
 
