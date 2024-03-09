@@ -2,8 +2,9 @@
 <div align="center">
   <img alt="icon" src="https://raw.githubusercontent.com/Behkar/amethyst_kiss_theme/master/images/amethyst-kiss.png" width="400px" height="300">
   
+![Website](https://img.shields.io/website?url=http%3A%2F%2Fsafememory.c1.is%2F)
+![GitHub repo size](https://img.shields.io/github/repo-size/Behkar/amethyst_kiss_theme)
 ![GitHub License](https://img.shields.io/github/license/Behkar/amethyst_kiss_theme)
-  
   
 </div>
 
