@@ -25,13 +25,15 @@ The Amethyst Kiss themes collection is designed with two color variations: pink 
 
 **Color variations**
 
-Pink (called Kiss mode in the theme): A soft and feminine color that is perfect for creating a relaxing and inviting atmosphere.
-Purple (called Amethyst mode in the theme): A bold and vibrant color that is perfect for creating a stylish and sophisticated atmosphere.
+  Pink (called Kiss mode in the theme): A soft and feminine color that is perfect for creating a relaxing and inviting atmosphere.
+
+  Purple (called Amethyst mode in the theme): A bold and vibrant color that is perfect for creating a stylish and sophisticated atmosphere.
 
 **Modes**
 
-Light mode: A bright and airy mode that is perfect for daytime use.
-Dark mode: A sleek and modern mode that is perfect for nighttime use.
+  Light mode: A bright and airy mode that is perfect for daytime use.
+  
+  Dark mode: A sleek and modern mode that is perfect for nighttime use.
 
 
 
