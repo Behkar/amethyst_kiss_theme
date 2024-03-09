@@ -43,10 +43,12 @@ The Amethyst Kiss themes collection is designed with two color variations: pink 
 
 **Font**
 
-  You can use [cascadia-code](https://github.com/microsoft/cascadia-code) or [FiraCode](https://github.com/tonsky/FiraCode) font for this theme.
+  You can use [Cascadia Code](https://github.com/microsoft/cascadia-code) or [FiraCode](https://github.com/tonsky/FiraCode) font for this theme.
 
+**Icon**
 
-
+ For more beauty, you can use the  [Material Product Icons](https://github.com/PKief/vscode-material-product-icons) icon (the same icon used in the screenshot).
+ 
 ## Installation via VScode Extensions
 
 1. Open **Extensions** sidebar panel and click section :  `View --> Extensions`
