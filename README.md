@@ -11,11 +11,11 @@ The Amethyst Kiss themes collection is designed with two color variations: pink 
 
 **Dark Modes**
 
-<img alt="overview" src="https://raw.githubusercontent.com/Behkar/amethyst_kiss_theme/master/images/dark.gif" width="400px" height="300" />
+<img alt="overview" src="https://raw.githubusercontent.com/Behkar/amethyst_kiss_theme/master/images/dark.gif" />
 
 **Light Modes**
 
-<img alt="overview" src="https://raw.githubusercontent.com/Behkar/amethyst_kiss_theme/master/images/light.gif" width="400px" height="300" />
+<img alt="overview" src="https://raw.githubusercontent.com/Behkar/amethyst_kiss_theme/master/images/light.gif" />
 
 
 ## Installation via VScode Extensions
