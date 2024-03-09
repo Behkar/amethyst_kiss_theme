@@ -2,6 +2,7 @@
 
 <div align="center">
   <img alt="icon" src="https://raw.githubusercontent.com/Behkar/amethyst_kiss_theme/master/images/amethyst-kiss.png" width="400px" height="300">
+  <ion-icon name="cafe"></ion-icon>
 </div>
 
 
