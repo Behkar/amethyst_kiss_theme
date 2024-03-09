@@ -1,8 +1,11 @@
 # Amethyst Kiss Themes Collection for [Visual Studio Code](http://code.visualstudio.com) or [VSCodium](https://vscodium.com/) 
 <div align="center">
   <img alt="icon" src="https://raw.githubusercontent.com/Behkar/amethyst_kiss_theme/master/images/amethyst-kiss.png" width="400px" height="300">
+
+
   
 ![Website](https://img.shields.io/website?url=http%3A%2F%2Fsafememory.c1.is%2F)
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Behkar/amethyst_kiss_theme)
 ![GitHub License](https://img.shields.io/github/license/Behkar/amethyst_kiss_theme)
   
