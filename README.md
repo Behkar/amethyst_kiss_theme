@@ -35,6 +35,16 @@ The Amethyst Kiss themes collection is designed with two color variations: pink 
   
   Dark mode: A sleek and modern mode that is perfect for nighttime use.
 
+## Preferences
+**Environment**
+
+  If you are a GNU/Linux user, you can use this [config](https://github.com/kud04rk/Openbox_Dotfiles/tree/main
+) to customize OpenBox to match this theme. (Screenshot)
+
+**Font**
+
+  You can use [cascadia-code](https://github.com/microsoft/cascadia-code) or [FiraCode](https://github.com/tonsky/FiraCode) font for this theme.
+
 
 
 ## Installation via VScode Extensions
@@ -48,6 +58,6 @@ The Amethyst Kiss themes collection is designed with two color variations: pink 
 enjoy!
 
 ## contact with me (Mahdi Behkar):
-email :mahdibehkar74@gmail.com </br>
-telegram id:@Mbdyou
+Email :mahdibehkar74@gmail.com </br>
+Telegram id:@Mbdyou
 
