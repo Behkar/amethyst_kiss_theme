@@ -25,8 +25,8 @@ The Amethyst Kiss themes collection is designed with two color variations: pink 
 
 **Color variations:**
 
-    Pink: A soft and feminine color that is perfect for creating a relaxing and inviting atmosphere.
-    Purple: A bold and vibrant color that is perfect for creating a stylish and sophisticated atmosphere.
+    Pink (called Kiss mode in the theme): A soft and feminine color that is perfect for creating a relaxing and inviting atmosphere.
+    Purple (called Amethyst mode in the theme): A bold and vibrant color that is perfect for creating a stylish and sophisticated atmosphere.
 
 **Modes:**
 
@@ -38,9 +38,9 @@ The Amethyst Kiss themes collection is designed with two color variations: pink 
 ## Installation via VScode Extensions
 
 1. Open **Extensions** sidebar panel and click section :  `View --> Extensions`
-2. Search this --> `Amethyst Kiss Theme`
+2. Search this --> `Amethyst Kiss Themes`
 3. Click **Install** and then click **Reload**
-4. File > Preferences > Color Theme > **Amethyst Kiss Theme**
+4. File > Preferences > Color Theme > **Amethyst Kiss Themes**
 
 
 enjoy!
