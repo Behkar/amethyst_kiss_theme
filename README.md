@@ -64,6 +64,11 @@ The Amethyst Kiss themes collection is designed with two color variations: pink 
 3. Click **Install** and then click **Reload**
 4. File > Preferences > Color Theme > **Amethyst Kiss Themes**
 
+## Developer
+
+[![Behkar M.](https://avatars3.githubusercontent.com/u/5240018?v=3&s=70)](https://github.com/dsifford)](https://avatars.githubusercontent.com/u/74659063?s=400&u=71d716d190d6f2be8927d1fc72dd1bbee3eb771c&v=4) |
+:---: |
+[Behkar M.](https://github.com/Behkar) |
 
 enjoy!
 
