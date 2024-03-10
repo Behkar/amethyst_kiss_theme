@@ -67,7 +67,7 @@ The Amethyst Kiss themes collection is designed with two color variations: pink 
 
 enjoy!
 
-## contact with me (Mahdi Behkar):
+## Contact with Me (Mahdi Behkar):
 Email :mahdibehkar74@gmail.com </br>
 Telegram id:@Mbdyou
 
