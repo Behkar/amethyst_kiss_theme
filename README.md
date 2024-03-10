@@ -7,7 +7,7 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/Behkar/amethyst_kiss_theme)
 ![GitHub License](https://img.shields.io/github/license/Behkar/amethyst_kiss_theme)
 
-<a href="https://www.coffeebede.com/mbehkar"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="100px" height="200" /></a>
+<a href="https://www.coffeebede.com/mbehkar"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" width="200px" height="200" /></a>
 
   
 </div>
