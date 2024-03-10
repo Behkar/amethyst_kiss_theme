@@ -66,7 +66,7 @@ The Amethyst Kiss themes collection is designed with two color variations: pink 
 
 ## Developer
 
-[![Behkar M.](https://github.com/dsifford)](https://avatars.githubusercontent.com/u/74659063?v=4&size=70) |
+[![Behkar M.](https://github.com/dsifford)](https://avatars3.githubusercontent.com/u/74659063?v=4&size=70) |
 :---: |
 [Behkar M.](https://github.com/Behkar) |
 
