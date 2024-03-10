@@ -3,11 +3,12 @@
   <img alt="icon" src="https://raw.githubusercontent.com/Behkar/amethyst_kiss_theme/master/images/amethyst-kiss.png" width="400px" height="300">
 
 
- [!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/gbraad)
- 
 ![Website](https://img.shields.io/website?url=http%3A%2F%2Fsafememory.c1.is%2F)
 ![GitHub repo size](https://img.shields.io/github/repo-size/Behkar/amethyst_kiss_theme)
 ![GitHub License](https://img.shields.io/github/license/Behkar/amethyst_kiss_theme)
+
+<a href="https://www.coffeebede.com/mbehkar"><img class="img-fluid" src="https://coffeebede.ir/DashboardTemplateV2/app-assets/images/banner/default-yellow.svg" /></a>
+
   
 </div>
 
