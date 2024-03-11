@@ -531,7 +531,7 @@
       "name": "Keywords",
       "scope": "keyword",
       "settings": {
-        "foreground": "#f94144"
+        "foreground": "#ea4b84"
       }
     },
     {
@@ -1908,8 +1908,8 @@
     "button.foreground": "#f9f9f9",
     "button.hoverBackground": "#f5085f",
     "button.secondaryForeground": "#f9f9f9",
-    "button.secondaryBackground": "#b0a6f2",
-    "button.secondaryHoverBackground": "#8670ee",
+    "button.secondaryBackground": "#f5a1bf",
+    "button.secondaryHoverBackground": "#ff307a",
     "input.background": "#ffffff",
     "input.border": "#00000000",
     "input.foreground": "#616161",
@@ -1917,7 +1917,7 @@
     "inputOption.activeBorder": "#007acc00",
     "inputOption.activeForeground": "#000000",
     "input.placeholderForeground": "#767676",
-    "textLink.foreground": "#af5dcd",
+    "textLink.foreground": "#ea4b84",
     "editor.background": "#f9f9f9",
     "editor.foreground": "#29343d",
     "editorLineNumber.foreground": "#577590",
