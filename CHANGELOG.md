@@ -12,6 +12,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - Purple color was chosen to select the menu bar in Amethyst-Kiss-Light-AmethystMode.json.
 - The line number was changed to purple in Update Amethyst-Kiss-Light-AmethystMode.json.
 - Add support for older versions of Visual Studio Code (> version 1.74.0).
+- Change keywords, links and buttons to pink.
 
 ## 0.0.1 (2024-03-10)
 
