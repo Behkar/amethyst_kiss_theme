@@ -1892,7 +1892,7 @@
     "titleBar.inactiveBackground": "#373E4D",
     "titleBar.inactiveForeground": "#cccccc99",
     "titleBar.border": "#00000000",
-    "menubar.selectionForeground": "#cccccc",
+    "menubar.selectionForeground": "#ffffff",
     "menubar.selectionBackground": "#e05387",
     "menu.foreground": "#cccccc",
     "menu.background": "#373E4D",
